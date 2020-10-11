@@ -1,6 +1,13 @@
 composer.phar
 /vendor/
-
-# Commit your application's lock file https://getcomposer.org/doc/01-basic-usage.md#commit-your-composer-lock-file-to-version-control
-# You may choose to ignore a library lock file http://getcomposer.org/doc/02-libraries.md#lock-file
-# composer.lock
+/public/css/
+/public/files/
+/public/font-awesome/
+/public/fonts/
+/public/img/
+/public/js/
+/public/json/
+/public/lib/
+/public/plugins/
+/public/.htaccess_server_https
+/App/config_servidor.php
