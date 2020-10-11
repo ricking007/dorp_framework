@@ -13,7 +13,7 @@ class IndexController extends Controller {
     }
 
     function index() {
-        $this->Redirect('index');
+        $this->view->render('index');
     }
 
 }
